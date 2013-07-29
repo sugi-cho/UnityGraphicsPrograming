@@ -1,0 +1,30 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GraphicsPrograming/Shaders/Tree.shader">
+    <Files>
+      <File FileName="Assets/GraphicsPrograming/Scripts/Libs/Spline.cs" Line="52" Column="4" />
+      <File FileName="Assets/GraphicsPrograming/Scripts/CreateMesh/SplineSweepMesh.cs" Line="138" Column="21" />
+      <File FileName="Assets/GraphicsPrograming/Scripts/CreateMesh/DrawTree.cs" Line="51" Column="24" />
+      <File FileName="Assets/GraphicsPrograming/Scripts/misc/Drag2Rotate.cs" Line="14" Column="32" />
+      <File FileName="Assets/GraphicsPrograming/Scripts/misc/Click2Instantiate.cs" Line="16" Column="40" />
+      <File FileName="Assets/GraphicsPrograming/Scripts/CreateMesh/DrawMesh.cs" Line="13" Column="56" />
+      <File FileName="Assets/GraphicsPrograming/Editor/CreateMesh.cs" Line="235" Column="1" />
+      <File FileName="Assets/VertexParticleSystem/Shaders/go2Pos.shader" Line="45" Column="29" />
+      <File FileName="Assets/GraphicsPrograming/Scripts/misc/ShowMousePos.cs" Line="13" Column="71" />
+      <File FileName="Assets/GraphicsPrograming/Scripts/CreateMesh/Click2Mesh.cs" Line="19" Column="4" />
+      <File FileName="Assets/GraphicsPrograming/Scripts/CreateMesh/LoftMeshController.cs" Line="27" Column="4" />
+      <File FileName="Assets/GraphicsPrograming/Scripts/misc/DraggableObject.cs" Line="17" Column="11" />
+      <File FileName="Assets/VertexParticleSystem/Shaders/ParticleUpdateCurl.shader" Line="3" Column="43" />
+      <File FileName="Assets/VertexParticleSystem/Scripts/SetGoPos.cs" Line="12" Column="1" />
+      <File FileName="Assets/VertexParticleSystem/Scripts/VertexParticleSystem.cs" Line="1" Column="1" />
+      <File FileName="Assets/GraphicsPrograming/Shaders/Tree.shader" Line="49" Column="31" />
+      <File FileName="Assets/GraphicsPrograming/Shaders/Water.shader" Line="8" Column="26" />
+      <File FileName="Assets/GraphicsPrograming/Shaders/Fire.shader" Line="36" Column="29" />
+      <File FileName="Assets/GraphicsPrograming/Shaders/PointTexNeo.shader" Line="64" Column="43" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
