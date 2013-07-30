@@ -12,3 +12,6 @@ http://sugi.cc/post/56797810093/draw-mesh-on-unity
 
 Vertex Shader
 http://sugi.cc/post/56805919861/vertex-shader
+
+Meshをつくるサンプルプログラムと、
+バーテックスシェーダの、例です。
